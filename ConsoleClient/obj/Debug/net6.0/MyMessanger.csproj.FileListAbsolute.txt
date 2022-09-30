@@ -1,0 +1,15 @@
+C:\Users\dvory\source\repos\MyMessanger\bin\Debug\net6.0\MyMessanger.exe
+C:\Users\dvory\source\repos\MyMessanger\bin\Debug\net6.0\MyMessanger.deps.json
+C:\Users\dvory\source\repos\MyMessanger\bin\Debug\net6.0\MyMessanger.runtimeconfig.json
+C:\Users\dvory\source\repos\MyMessanger\bin\Debug\net6.0\MyMessanger.dll
+C:\Users\dvory\source\repos\MyMessanger\bin\Debug\net6.0\MyMessanger.pdb
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\MyMessanger.csproj.AssemblyReference.cache
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\MyMessanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\MyMessanger.AssemblyInfoInputs.cache
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\MyMessanger.AssemblyInfo.cs
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\MyMessanger.csproj.CoreCompileInputs.cache
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\MyMessanger.dll
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\refint\MyMessanger.dll
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\MyMessanger.pdb
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\MyMessanger.genruntimeconfig.cache
+C:\Users\dvory\source\repos\MyMessanger\obj\Debug\net6.0\ref\MyMessanger.dll
