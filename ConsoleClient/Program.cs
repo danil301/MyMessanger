@@ -5,8 +5,8 @@ namespace MyMessanger
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Worm gg m ld!");
+            Console.WriteLine("Hello,m gg m ld!");
         }
     }
 }
-
+ 
