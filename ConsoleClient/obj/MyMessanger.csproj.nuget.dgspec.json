@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dvory\\source\\repos\\MyMessanger\\MyMessanger.csproj": {}
+    "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dvory\\source\\repos\\MyMessanger\\MyMessanger.csproj": {
+    "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dvory\\source\\repos\\MyMessanger\\MyMessanger.csproj",
+        "projectUniqueName": "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj",
         "projectName": "MyMessanger",
-        "projectPath": "C:\\Users\\dvory\\source\\repos\\MyMessanger\\MyMessanger.csproj",
+        "projectPath": "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj",
         "packagesPath": "C:\\Users\\dvory\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dvory\\source\\repos\\MyMessanger\\obj\\",
+        "outputPath": "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
