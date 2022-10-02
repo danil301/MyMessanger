@@ -28,3 +28,5 @@ C:\Users\dvory\Source\Repos\MyMessanger\ConsoleClient\obj\Debug\net6.0\refint\My
 C:\Users\dvory\Source\Repos\MyMessanger\ConsoleClient\obj\Debug\net6.0\MyMessanger.pdb
 C:\Users\dvory\Source\Repos\MyMessanger\ConsoleClient\obj\Debug\net6.0\MyMessanger.genruntimeconfig.cache
 C:\Users\dvory\Source\Repos\MyMessanger\ConsoleClient\obj\Debug\net6.0\ref\MyMessanger.dll
+C:\Users\dvory\source\repos\MyMessanger\ConsoleClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dvory\source\repos\MyMessanger\ConsoleClient\obj\Debug\net6.0\MyMessanger.csproj.CopyComplete

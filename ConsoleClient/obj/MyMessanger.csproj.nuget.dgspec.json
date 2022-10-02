@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj": {}
+    "C:\\Users\\dvory\\source\\repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj": {
+    "C:\\Users\\dvory\\source\\repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj",
+        "projectUniqueName": "C:\\Users\\dvory\\source\\repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj",
         "projectName": "MyMessanger",
-        "projectPath": "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj",
+        "projectPath": "C:\\Users\\dvory\\source\\repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj",
         "packagesPath": "C:\\Users\\dvory\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dvory\\Source\\Repos\\MyMessanger\\ConsoleClient\\obj\\",
+        "outputPath": "C:\\Users\\dvory\\source\\repos\\MyMessanger\\ConsoleClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
